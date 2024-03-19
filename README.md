@@ -13,4 +13,4 @@ female users tend to be more positive in the scraped data (roughly by 8 percent 
 - Introduce better transliteration
 - Migrate visualization from matplotlib to plotly
 - Introduce a scraper for getting comments from the chosen Vk group
-- Befriend the scraper and analyzer
+- Chum up the scraper and the analyzer
